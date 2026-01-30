@@ -43,7 +43,7 @@ A **live Power BI dashboard** is embedded directly into the e-commerce website. 
 ## 🖼️ Project Screenshots & Explanation
 
 ### 1️⃣ Product Browsing Page
-![Product Page](screenshots/ui_products.png)
+![Product Page](screenshots/ui_products.jpg)
 
 - Displays available products by category  
 - Customers can explore products with pricing details  
@@ -52,7 +52,7 @@ A **live Power BI dashboard** is embedded directly into the e-commerce website. 
 ---
 
 ### 2️⃣ Cart & Order Placement
-![Cart Page](screenshots/ui_cart.png)
+![Cart Page](screenshots/ui_cart.jpg)
 
 - Customers add selected products to the cart  
 - Orders are placed through checkout  
@@ -61,7 +61,7 @@ A **live Power BI dashboard** is embedded directly into the e-commerce website. 
 ---
 
 ### 3️⃣ User Registration Page
-![User Registration](screenshots/ui_register.png)
+![User Registration](screenshots/ui_register.jpg)
 
 - New users register by entering personal details  
 - Enables user authentication and tracking  
@@ -70,7 +70,7 @@ A **live Power BI dashboard** is embedded directly into the e-commerce website. 
 ---
 
 ### 4️⃣ Admin Dashboard (OpenCart)
-![Admin Dashboard](screenshots/admin_dashboard.png)
+![Admin Dashboard](screenshots/admin_dashboard.jpg)
 
 - Displays total orders, revenue, customers, and live activity  
 - Acts as the control panel for managing the e-commerce system  
@@ -79,7 +79,7 @@ A **live Power BI dashboard** is embedded directly into the e-commerce website. 
 ---
 
 ### 5️⃣ Sales Forecasting Dashboard (Power BI)
-![Sales Forecast](screenshots/powerbi_forecast.png)
+![Sales Forecast](screenshots/powerbi_forecast.jpg)
 
 - Forecasts future sales and order quantity  
 - Uses historical data to predict trends  
@@ -88,7 +88,7 @@ A **live Power BI dashboard** is embedded directly into the e-commerce website. 
 ---
 
 ### 6️⃣ Business Insights Dashboard (Power BI)
-![Business Insights](screenshots/powerbi_insights.png)
+![Business Insights](screenshots/powerbi_insights.jpg)
 
 - Shows top-selling products  
 - Displays sales distribution and quantity trends  
@@ -97,7 +97,7 @@ A **live Power BI dashboard** is embedded directly into the e-commerce website. 
 ---
 
 ### 7️⃣ Admin Login Page
-![Admin Login](screenshots/admin_login.png)
+![Admin Login](screenshots/admin_login.jpg)
 
 - Secure login for administrators  
 - Prevents unauthorized access  
